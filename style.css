@@ -133,14 +133,14 @@ footer {
 
     h1 {
         font-size: 40px;
-        color: #F2DB66;
+
         text-align: center;
         margin-top: 40px;
         margin-bottom: 80px;
     }
 
     .sub-title {
-        color: #F2DB66;
+
         font-size: 31px;
         margin-left: 30px;
         margin-top: 30px;
@@ -154,7 +154,7 @@ footer {
         width: 100%;
         margin: 0;
         font-size: 20px;
-    text-align: left;
+        text-align: left;
 
     }
 
