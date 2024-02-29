@@ -94,3 +94,27 @@ footer {
     padding: 5px;
     text-align: center;
 }
+
+
+
+@media screen and (max-width: 800px) {
+
+
+ 
+
+
+
+   .customlink{
+    display: none;
+   }
+
+   .logo-header {
+    width: 60px;
+    display: inline-block;
+    position: absolute;
+    top: 2px;
+    right: 25px;
+}
+
+
+}
