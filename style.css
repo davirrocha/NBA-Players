@@ -29,7 +29,7 @@ a {
 
 }
 
-a:hover{
+a:hover {
     color: #8630BF;
 }
 
@@ -100,21 +100,67 @@ footer {
 @media screen and (max-width: 800px) {
 
 
- 
+
+    .customlink {
+        display: none;
+
+    }
+
+
+    .logo-header {
+        width: 60px;
+        display: inline-block;
+        position: absolute;
+        top: 2px;
+        right: 25px;
+
+    }
+
+
+    .hearder {
+        width: 100%;
+        height: 50%;
+
+    }
+
+
+    .tudo {
+        margin: 0px;
+        padding: 0;
+        width: auto;
+
+    }
+
+    h1 {
+        font-size: 40px;
+        color: #F2DB66;
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 80px;
+    }
+
+    .sub-title {
+        color: #F2DB66;
+        font-size: 31px;
+        margin-left: 30px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        line-height: 60px;
+        text-align: center;
+
+    }
+
+    .content {
+        width: 100%;
+        margin: 0;
+        font-size: 20px;
+    text-align: left;
+
+    }
 
 
 
-   .customlink{
-    display: none;
-   }
 
-   .logo-header {
-    width: 60px;
-    display: inline-block;
-    position: absolute;
-    top: 2px;
-    right: 25px;
-}
 
 
 }
